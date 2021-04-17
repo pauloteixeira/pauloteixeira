@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @pauloteixeira
+- 👀 I’m interested in PHP, React.Js, JavaScript ... etc.
+- 🌱 I’m currently learning React.Js
