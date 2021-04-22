@@ -1,4 +1,4 @@
-![Head](https://lh5.googleusercontent.com/86MXyL_GFja3DS97LVjDfpDav3DixD4yGWXPl9hBWiYzUxYHU35WK9NSc2iCwvSXhpN0JRN6goug9OKXupgk=w1756-h923)
+![Head](https://raw.githubusercontent.com/pauloteixeira/Warehouse/master/GitHub%20banner.png)
 
 
 # 👋 Hi, I’m @pauloteixeira 
